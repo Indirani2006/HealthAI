@@ -1,4 +1,4 @@
-
+https://colab.research.google.com/drive/1NL3YQO0a29g36Z8iaISbPBFuUa5IE_sl?usp=drive_link
 !pip install transformers torch gradio -q
 
 import gradio as gr
